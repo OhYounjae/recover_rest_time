@@ -1,5 +1,6 @@
 package review_days;
 
+//열거타입
 enum Week{
 	MON, TUE, WED, THU, FRI, SAT, SUN
 }
