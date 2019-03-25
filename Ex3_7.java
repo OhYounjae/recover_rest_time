@@ -11,5 +11,7 @@ public class Ex3_7 {
 		Week yourWeek = Week.SAT;
 		System.out.printf("My special day : (%s) %n", myWeek);
 		System.out.printf("Your special day : (%s) %n", yourWeek);
+		
+		//format이 있으면 println사용이 되지 않는
 	}
 }
